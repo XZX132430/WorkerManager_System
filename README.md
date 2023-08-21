@@ -1,0 +1,2 @@
+# WorkerManager_System
+利用学习cpp过程中所学实现一个基于多态和文件读写的的职工管理系统
